@@ -11,6 +11,5 @@ public class PlaneMain {
         System.out.println(plane.addPassanger(new Passanger("fifthPassanger", "ID05", 1)));
 
         System.out.println(plane.numberOfPackages());
-
     }
 }
